@@ -1,1 +1,14 @@
-[{"username":"1","password":"1","expiry":"2025-07-01","hwid":[]}]
+[
+    {
+        "username": "1",
+        "password": "1",
+        "expiry": "2025-07-01",
+        "hwid": []
+    },
+    {
+        "username": "abhay",
+        "password": "1",
+        "expiry": "2052-11-16",
+        "hwid": []
+    }
+]
