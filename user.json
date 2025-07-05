@@ -1,1 +1,23 @@
-[{"username":"1","password":"1","expiry":"2025-07-01","hwid":[]},{"username":"abhay","password":"1","expiry":"2025-08-01","hwid":["S-1-5-21-701947511-875782582-3903338051-1001","6f0e13207cadc6bbc553444a61900fde1f1b5550488b95da95fbd4633babd7d9"]}]
+[
+    {
+        "username": "1",
+        "password": "1",
+        "expiry": "2025-07-01",
+        "hwid": []
+    },
+    {
+        "username": "abhay",
+        "password": "1",
+        "expiry": "2025-08-01",
+        "hwid": [
+            "S-1-5-21-701947511-875782582-3903338051-1001",
+            "6f0e13207cadc6bbc553444a61900fde1f1b5550488b95da95fbd4633babd7d9"
+        ]
+    },
+    {
+        "username": "darsh",
+        "password": "1",
+        "expiry": "2052-11-19",
+        "hwid": []
+    }
+]
