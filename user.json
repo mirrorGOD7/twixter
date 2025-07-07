@@ -67,5 +67,11 @@
         "password": "1",
         "expiry": "2028-04-01",
         "hwid": []
+    },
+    {
+        "username": "DEV",
+        "password": "1",
+        "expiry": "2028-04-01",
+        "hwid": []
     }
 ]
