@@ -1,13 +1,5 @@
 [
     {
-        "username": "1",
-        "password": "1",
-        "expiry": "2029-07-01",
-        "hwid": [
-            ""
-        ]
-    },
-    {
         "username": "abhay",
         "password": "1",
         "expiry": "2025-08-01",
