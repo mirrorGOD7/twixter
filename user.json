@@ -8,5 +8,11 @@
             "e619c095a6f9fdf5ab3f4ce33b031344c1371a2acea8d1a3fe056ca93e8fff5a",
             "d9f2d3bfaca095df25c5d9eb41ce961bab8bb7ea4e1d14c97cd02f9665a3b12f"
         ]
+    },
+    {
+        "username": "x",
+        "password": "x",
+        "expiry": "2025-10-28",
+        "hwid": []
     }
 ]
