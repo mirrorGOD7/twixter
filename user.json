@@ -1,1 +1,86 @@
-[{"username":"1","password":"1","expiry":"2029-07-01","hwid":[""]},{"username":"abhay","password":"1","expiry":"2025-08-01","hwid":["S-1-5-21-701947511-875782582-3903338051-1001","6f0e13207cadc6bbc553444a61900fde1f1b5550488b95da95fbd4633babd7d9"]},{"username":"mikey","password":"1","expiry":"2052-11-19","hwid":["e2d63abd68848fb996d45df7bd745983c01f52b054c10349a1e31a2191fe8761","e619c095a6f9fdf5ab3f4ce33b031344c1371a2acea8d1a3fe056ca93e8fff5a","d9f2d3bfaca095df25c5d9eb41ce961bab8bb7ea4e1d14c97cd02f9665a3b12f"]},{"username":"naruto","password":"1","expiry":"2052-11-19","hwid":["1002caedbc57307d1c5468aff8247b8933c56c14c735b91a29f881bbefbd86c1","f3f7522b1463f721841a9403da72358787c3161483cb7db30fb9ef75c0a25630","5e236b8594312dc48a079aaa7d1244a5721e6f726be40e51fe80cd5683f0117e","486bb72aabc80006aa44f64517ca89caede5480d2c864b98e247c47ea24a3cb3","11ab5693bc82891793a4c2eb0170ac206096661b5d1867b077592755c6e95971","c448f87d213077e666fce3606034b5eb56031638295fb0934d70488b30f96bdf","c2f92fd628593b926d6d2013c2ca15e7aa6c132d9833d756b8cef2989486ee77"]},{"username":"aman","password":"1","expiry":"2052-11-19","hwid":["958f539bd1230924f923cdc349d35aa314d73d313aa0a3842a17b54e982cb1f6"]},{"username":"darsh","password":"1","expiry":"2052-11-19","hwid":["90df47d940beb2b5be51c4538924d42ca17674b07c704eabd2170d08abb111b7"]},{"username":"gourav","password":"1","expiry":"2052-11-21","hwid":["7ce60cdfc28b6c7a7d02b7c3dec7d11a5a6fc1d5afc5021b087c29d78fac0181","a7b2741848f1497bb1a0c30fb5e5b8689bcf5f10672a9cbea40b145b2a04f27f"]},{"username":"APEX","password":"1","expiry":"2028-04-01","hwid":[]},{"username":"DEV","password":"1","expiry":"2028-04-01","hwid":[]},{"username":"SKY","password":"1","expiry":"2028-04-01","hwid":[]}]
+[
+    {
+        "username": "1",
+        "password": "1",
+        "expiry": "2029-07-01",
+        "hwid": [
+            ""
+        ]
+    },
+    {
+        "username": "abhay",
+        "password": "1",
+        "expiry": "2025-08-01",
+        "hwid": [
+            "S-1-5-21-701947511-875782582-3903338051-1001",
+            "6f0e13207cadc6bbc553444a61900fde1f1b5550488b95da95fbd4633babd7d9"
+        ]
+    },
+    {
+        "username": "mikey",
+        "password": "1",
+        "expiry": "2052-11-19",
+        "hwid": [
+            "e2d63abd68848fb996d45df7bd745983c01f52b054c10349a1e31a2191fe8761",
+            "e619c095a6f9fdf5ab3f4ce33b031344c1371a2acea8d1a3fe056ca93e8fff5a",
+            "d9f2d3bfaca095df25c5d9eb41ce961bab8bb7ea4e1d14c97cd02f9665a3b12f"
+        ]
+    },
+    {
+        "username": "naruto",
+        "password": "1",
+        "expiry": "2052-11-19",
+        "hwid": [
+            "1002caedbc57307d1c5468aff8247b8933c56c14c735b91a29f881bbefbd86c1",
+            "f3f7522b1463f721841a9403da72358787c3161483cb7db30fb9ef75c0a25630",
+            "5e236b8594312dc48a079aaa7d1244a5721e6f726be40e51fe80cd5683f0117e",
+            "486bb72aabc80006aa44f64517ca89caede5480d2c864b98e247c47ea24a3cb3",
+            "11ab5693bc82891793a4c2eb0170ac206096661b5d1867b077592755c6e95971",
+            "c448f87d213077e666fce3606034b5eb56031638295fb0934d70488b30f96bdf",
+            "c2f92fd628593b926d6d2013c2ca15e7aa6c132d9833d756b8cef2989486ee77"
+        ]
+    },
+    {
+        "username": "aman",
+        "password": "1",
+        "expiry": "2052-11-19",
+        "hwid": [
+            "958f539bd1230924f923cdc349d35aa314d73d313aa0a3842a17b54e982cb1f6"
+        ]
+    },
+    {
+        "username": "darsh",
+        "password": "1",
+        "expiry": "2052-11-19",
+        "hwid": [
+            "90df47d940beb2b5be51c4538924d42ca17674b07c704eabd2170d08abb111b7"
+        ]
+    },
+    {
+        "username": "gourav",
+        "password": "1",
+        "expiry": "2052-11-21",
+        "hwid": [
+            "7ce60cdfc28b6c7a7d02b7c3dec7d11a5a6fc1d5afc5021b087c29d78fac0181",
+            "a7b2741848f1497bb1a0c30fb5e5b8689bcf5f10672a9cbea40b145b2a04f27f"
+        ]
+    },
+    {
+        "username": "APEX",
+        "password": "1",
+        "expiry": "2028-04-01",
+        "hwid": []
+    },
+    {
+        "username": "DEV",
+        "password": "1",
+        "expiry": "2028-04-01",
+        "hwid": []
+    },
+    {
+        "username": "SKY",
+        "password": "1",
+        "expiry": "2028-04-01",
+        "hwid": []
+    }
+]
