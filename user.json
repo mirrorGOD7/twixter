@@ -19,20 +19,6 @@
         ]
     },
     {
-        "username": "naruto",
-        "password": "1",
-        "expiry": "2052-11-19",
-        "hwid": [
-            "1002caedbc57307d1c5468aff8247b8933c56c14c735b91a29f881bbefbd86c1",
-            "f3f7522b1463f721841a9403da72358787c3161483cb7db30fb9ef75c0a25630",
-            "5e236b8594312dc48a079aaa7d1244a5721e6f726be40e51fe80cd5683f0117e",
-            "486bb72aabc80006aa44f64517ca89caede5480d2c864b98e247c47ea24a3cb3",
-            "11ab5693bc82891793a4c2eb0170ac206096661b5d1867b077592755c6e95971",
-            "c448f87d213077e666fce3606034b5eb56031638295fb0934d70488b30f96bdf",
-            "c2f92fd628593b926d6d2013c2ca15e7aa6c132d9833d756b8cef2989486ee77"
-        ]
-    },
-    {
         "username": "aman",
         "password": "1",
         "expiry": "2052-11-19",
