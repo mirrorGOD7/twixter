@@ -70,11 +70,5 @@
         "password": "1",
         "expiry": "2028-04-01",
         "hwid": []
-    },
-    {
-        "username": "SKY",
-        "password": "1",
-        "expiry": "2028-04-01",
-        "hwid": []
     }
 ]
