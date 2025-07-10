@@ -41,5 +41,11 @@
         "password": "1",
         "expiry": "2028-04-04",
         "hwid": []
+    },
+    {
+        "username": "SEX",
+        "password": "1",
+        "expiry": "2025-07-14",
+        "hwid": []
     }
 ]
