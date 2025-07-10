@@ -46,5 +46,11 @@
         "password": "1",
         "expiry": "2028-04-04",
         "hwid": []
+    },
+    {
+        "username": "sd",
+        "password": "123",
+        "expiry": "2052-11-24",
+        "hwid": []
     }
 ]
