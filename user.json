@@ -39,5 +39,11 @@
         "hwid": [
             "6f0e13207cadc6bbc553444a61900fde1f1b5550488b95da95fbd4633babd7d9"
         ]
+    },
+    {
+        "username": "fearless",
+        "password": "1",
+        "expiry": "2052-11-25",
+        "hwid": []
     }
 ]
