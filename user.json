@@ -57,5 +57,11 @@
         "password": "1",
         "expiry": "2052-11-25",
         "hwid": []
+    },
+    {
+        "username": "naruto",
+        "password": "1",
+        "expiry": "2052-11-25",
+        "hwid": []
     }
 ]
